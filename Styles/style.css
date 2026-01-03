@@ -84,4 +84,8 @@ body,html {
     object-fit: cover;
     z-index: -1;
 }
-
+#readme{
+    color:white;
+    background-color: transparent;
+    text-align: center;
+}
